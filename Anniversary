@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Undercover Love 💕</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #ffd6e0; /* soft pink */
+      color: #3a3a3a;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      font-size: 2.5em;
+      color: #d63384;
+    }
+    p {
+      font-size: 1.2em;
+      line-height: 1.8;
+      max-width: 800px;
+      margin: 0 auto 40px;
+    }
+    .gallery {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      flex-wrap: wrap;
+      margin-top: 40px;
+    }
+    .gallery img {
+      width: 280px;
+      border-radius: 20px;
+      box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+    }
+    .infinity {
+      font-size: 2em;
+      margin-top: 30px;
+      color: #d63384;
+    }
+  </style>
+</head>
+<body>
+  <h1>✨ Our Undercover Love ✨</h1>
+  <p>
+    Ma Poopie, my China, my favorite part of every day ❤️  
+    Our love is motion — smooth, unstoppable, undeniable.  
+    With you, I don’t just feel cared for, I feel chosen. You’ve turned even the simplest moments into the best memories of my life.  
+    <br><br>
+    I call it <b>“Undercover Love”</b>, because it’s ours — our own little world where nothing else matters but us. You’re my peace, my smile, my rhythm. The one who keeps me grounded and at the same time makes me feel like I’m flying.  
+    <br><br>
+    Thank you for every laugh, every call, every hug, and for being my person. This is just the first month of forever — because I know in my heart, I never want this story to end.  
+  </p>
+  
+  <div class="infinity">30 Aug 2025 ♾️ </div>
+  
+  <div class="gallery">
+    <img src="instc.jpeg" alt="Pic 1">
+    <img src="IMG_3700.jpeg" alt="Pic 2">
+    <img src="fqs.jpeg" alt="Pic 3">
+  </div>
+</body>
+</html>
